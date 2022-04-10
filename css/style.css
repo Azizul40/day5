@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-size: 15px;
+    box-sizing: border-box;
+    text-align: center;
+    background: #000;
+    
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+
+img{
+    vertical-align: middle;
+    max-width: 100%;
+}
+
+ul,li{
+    list-style: none;
+}
+
+/*
+common css end
+*/
+#external-css{
+    color: rgb(81, 95, 203);
+    background: rgb(239, 136, 114);
+    text-transform: capitalize;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#ewl{
+    color: rgb(144, 46, 207);
+    background: rgb(24, 97, 139);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-transform: capitalize;
+    
+}
+#ewl2{
+    color: rgb(17, 17, 17);
+    background: rgb(24, 97, 139);
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-transform: capitalize;
+    
+}
+#main{
+    color: rgb(144, 46, 207);
+    background: rgb(24, 97, 139);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-transform: capitalize;
+}
